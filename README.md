@@ -5,7 +5,7 @@ Principal use in your Laravel Project
 ### To use in your project:
 
 First needed to install the library, run follow command:
-- `composer require mayconoliveira/simple-response`
+- `composer require playkids/simple-response`
 
 ## To use in your Laravel Project, follow steps:
 
