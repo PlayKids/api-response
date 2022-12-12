@@ -11,6 +11,7 @@
   ],
   "minimum-stability": "stable",
   "require": {
+    "php": ">=7.4",
     "symfony/http-foundation": "^5.4",
     "illuminate/http": "^8.83",
     "phpunit/phpunit": "^9.5"
